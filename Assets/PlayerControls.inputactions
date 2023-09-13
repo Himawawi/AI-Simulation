@@ -1,0 +1,34 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "961240e5-938d-4fb8-8dcf-afa41b4d367b",
+            "actions": [
+                {
+                    "name": "SpaceKey",
+                    "type": "PassThrough",
+                    "id": "f165efe2-1e8f-4087-ab92-2cfebf1b7520",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e73ae033-2073-4a16-b619-f7723c1df768",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpaceKey",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
