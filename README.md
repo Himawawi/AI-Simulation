@@ -1,2 +1,2 @@
 # AI-Simulation
-AI Simulation done for a school project
+AI Simulation done for a school project where different objects search for food, mate and die.
